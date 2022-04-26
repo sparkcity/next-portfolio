@@ -6,14 +6,14 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Resume Page</title>
+        <title>Projects Page</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Resume" />
+        <Header title="Projects" />
         <p className="description">
-          This is the resume page.
+          This is the projects page.
         </p>
       </main>
 
